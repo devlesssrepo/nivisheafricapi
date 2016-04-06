@@ -1,0 +1,1 @@
+json.extract! @designer, :id, :first_name, :last_name, :phone_number, :email_address, :physical_address, :design_label, :logo, :about_notes
